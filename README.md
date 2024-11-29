@@ -1,5 +1,5 @@
 # 🎄 [Advent Of Code](https://adventofcode.com)
-
+# using template from https://github.com/pgebert/advent-of-code-kotlin-template
 ![Current day](https://img.shields.io/badge/Day-0-blue)
 ![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-0-yellow)
 ![Days completed](https://img.shields.io/badge/Days%20Completed-0-red)
